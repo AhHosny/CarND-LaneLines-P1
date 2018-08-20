@@ -16,7 +16,7 @@
 
 ### Draw single lines
 ---
-**In order to draw a single line on the left and right lanes, I modified the function draw_lines().This function works as follows:
+**In order to draw a single line on the left and right lanes, I modified the function draw_lines().This function works as follows:**
 
 1.Separate the right and left line based on their slope
 2.Average the line ending x,y coordinates for each side
@@ -27,7 +27,7 @@
 
 ### Potential shortcomings
 ---
-**Smoothing of line
+**Smoothing of line**
 
 In the videos the detected lane lines are jittering quite bad, especially in the challenge video. A smoothing between the frames would solve this.
 
