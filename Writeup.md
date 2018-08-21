@@ -3,8 +3,7 @@
 
 
 ### My pipeline consists of the following steps:
-### ---
-
+--
 1.Converting image to grayscale
 
 2.Applying a Gaussian blur to the image
